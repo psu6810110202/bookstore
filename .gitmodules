@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/psu6810110202/wd-nest-book-store.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/psu6810110202/bookstore-frontend.git
