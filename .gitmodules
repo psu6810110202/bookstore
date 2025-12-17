@@ -1,6 +1,3 @@
-[submodule "backend"]
-	path = wd-nest-book-store
-	url = https://github.com/psu6810110202/wd-nest-book-store.git
 [submodule "frontend"]
 	path = bookstore-frontend
 	url = https://github.com/psu6810110202/bookstore-frontend.git
