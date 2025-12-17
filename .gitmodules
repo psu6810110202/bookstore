@@ -1,3 +1,6 @@
 [submodule "frontend"]
-	path = frontend
+	path = bookstore-frontend
 	url = https://github.com/psu6810110202/bookstore-frontend.git
+[submodule "bookstore-backend"]
+	path = bookstore-backend
+	url = https://github.com/psu6810110202/bookstore-backend.git
